@@ -1,2 +1,3 @@
 # R-codes
-my R codes
+this repository contains my R codes
+
